@@ -1,0 +1,27 @@
+h1{
+	font-size: 40px
+	
+
+}
+
+body{
+	text-align: center;
+	background-image: url('https://thumbs.gfycat.com/OilyDeadlyBaleenwhale-size_restricted.gif');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: 50%;
+            background-size: cover;
+            height: 100vh;
+
+}
+#titre{
+	color: red
+}
+
+#txt{
+	color: blue
+}
+
+ul{
+	font-size: 25px
+}
