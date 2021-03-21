@@ -1,32 +1,49 @@
-h1{
-	color: red;
-	font-size: 150px
-	
-	
-}
-
 h3{
-	color: green;
-	font-size: 30px
-}
+		color: white;
+			font-size: 30px;
+			background-color: black;
+					}
 
-#lien{
-	font-size: 30px
-}
+						body{
+							text-align: center;
+							background-image: url('https://thumbs.gfycat.com/OilyDeadlyBaleenwhale-size_restricted.gif');
+        					background-repeat: no-repeat;
+        					background-attachment: fixed;
+          					background-position: 50%;
+           					background-size: cover;
+           					height: 100vh; 
+									}
+
+									#lien{
+										font-size: 30px;
+										text-align: left;
+										}
+
+											.derrox{
+												color: red;
+												font-size: 150px;	
+												}$
+
+													.yd{
+														color: green;
+														}
 
 
-body{
-	text-align: center;
-	background-image: url('https://thumbs.gfycat.com/OilyDeadlyBaleenwhale-size_restricted.gif');
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-            background-position: 50%;
-            background-size: cover;
-            height: 100vh;
+														.yy{
+															color: green;
+															}
 
-  
-}	
 
-#page2{	
-	font-size: 30px;
-}
+															.discord{
+																color: yellow;
+																}
+	
+
+																.clickrc{
+																	color: white;
+																	font-size: 30px;
+																	padding: 10px;
+																	background-color: black;
+																	}
+
+
