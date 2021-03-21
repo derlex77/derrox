@@ -3,7 +3,7 @@
 	color: #8B0000;
 	width: 500px;
     padding: 30px;
-    position: absolute;
+    position: fixed;
     top: 21%;
     left: 50%;
     transform: translate(-50%,-50%);
@@ -14,7 +14,7 @@
 .box2{
 	width: 350px;
     padding: 20px;
-    position: absolute;
+    position: fixed;
     top: 52%;
     left: 75%;
     transform: translate(-50%,-50%);
@@ -25,7 +25,7 @@
 .box3{
 	width: 350px;
     padding: 20px;
-    position: absolute;
+    position: fixed;
     top: 51%;
     left: 25%;
     transform: translate(-50%,-50%);
@@ -53,25 +53,25 @@ body{
 }
 
 .imgy{
-	position: absolute;
+	position: fixed;
 	top: 44%;
 	left: 87%;
 }
 
 .imgd{
-	position: absolute;
+	position: fixed;
 	top: 44%;
 	right: 87%;
 }
 
 .vdd{
-	position: absolute;
+	position: fixed;
 	top: 54%;
 	right: 58%;
 }
 
 .vdy{
-	position: absolute;
+	position: fixed;
 	top: 54%;
 	left: 58%;
 }
@@ -89,7 +89,7 @@ body{
 	color: #CD5C5C;
 	width: 500px;
     padding: 10px;
-    position: absolute;
+    position: fixed;
     font-size: 25px;
     top: 97%;
     left: 50%;
