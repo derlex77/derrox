@@ -1,0 +1,100 @@
+
+.box1{
+	color: #8B0000;
+	width: 500px;
+    padding: 30px;
+    position: absolute;
+    top: 21%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #191919;
+    text-align: center;
+}
+
+.box2{
+	width: 350px;
+    padding: 20px;
+    position: absolute;
+    top: 52%;
+    left: 75%;
+    transform: translate(-50%,-50%);
+    background: #191919;
+    text-align: center;
+}
+
+.box3{
+	width: 350px;
+    padding: 20px;
+    position: absolute;
+    top: 51%;
+    left: 25%;
+    transform: translate(-50%,-50%);
+    background: #191919;
+    text-align: center;
+}
+
+body{
+	text-align: center;
+	background-image: url('https://i.pinimg.com/originals/82/c4/a0/82c4a00ccce28d4401cc32c89a3078ce.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: 50%;
+    background-size: cover;
+    height: 100vh;
+}
+
+.yd{
+	font-size: 30px;
+	color: #8B0000;
+}
+
+.derrox{
+	font-size: 50px	
+}
+
+.imgy{
+	position: absolute;
+	top: 44%;
+	left: 87%;
+}
+
+.imgd{
+	position: absolute;
+	top: 44%;
+	right: 87%;
+}
+
+.vdd{
+	position: absolute;
+	top: 54%;
+	right: 58%;
+}
+
+.vdy{
+	position: absolute;
+	top: 54%;
+	left: 58%;
+}
+
+.discord{
+	font-size: 24px;
+	color: #87CEEB;
+}
+
+.txt1{
+	font-size: 20
+}
+
+.clickrc{
+	color: #CD5C5C;
+	width: 500px;
+    padding: 10px;
+    position: absolute;
+    font-size: 25px;
+    top: 97%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #191919;
+    text-align: center;
+}
+
