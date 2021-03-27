@@ -34,13 +34,15 @@
 }
 
 body{
+	margin: 0px;
+	padding: 0px;
 	text-align: center;
 	background-image: url('https://i.pinimg.com/originals/82/c4/a0/82c4a00ccce28d4401cc32c89a3078ce.gif');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: 50%;
-    background-size: cover;
-    height: 100vh;
+    	background-repeat: no-repeat;
+    	background-attachment: fixed;
+   	 background-position: 50%;
+   	 background-size: cover;
+   	 height: 100vh;
 }
 
 .yd{
